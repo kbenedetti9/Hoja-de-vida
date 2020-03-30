@@ -2,4 +2,4 @@
 
 ## OurSofka
 
-- Progreso en brach develop
+- Progreso en branch develop
